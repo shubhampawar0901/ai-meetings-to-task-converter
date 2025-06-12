@@ -26,6 +26,10 @@ And get organized tasks like this:
 - 🎨 **Beautiful UI**: Modern, responsive interface with color-coded priorities
 - ⚡ **Real-time**: Instant task extraction and display
 
+![image](https://github.com/user-attachments/assets/6c6602ef-81ff-467d-9c38-763f2c3ff5f9)
+![image](https://github.com/user-attachments/assets/d282a4e9-05ea-483e-9821-92dfefc31ee5)
+
+
 ## 🛠 Prerequisites
 
 Before you start, make sure you have:
